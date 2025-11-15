@@ -13,7 +13,7 @@ Renders a moving teapot using a tessellation shader, thats about it.
 Learn DX11 by using tessellation, specifically how to use a hull and tessellation shaders.
 
 # More Information #
-It simply renders some teapots using constant tessellation. You can find the code [here](https://bitbucket.org/karurosu/teapotdx11/src/64e6a211db8ded965309817ffbb65db92ca00ec1/D3D11SimpleTeapot/D3D11SimpleFx.hlsl?at=default&fileviewer=file-view-default). The tessellation was done using a bezier algorithm and control points.
+It simply renders some teapots using constant tessellation. You can find the code [here](https://github.com/karurosu/3d-teapots/blob/main/d3d11-teapot/D3D11SimpleTeapot/D3D11SimpleFx.hlsl). The tessellation was done using a bezier algorithm and control points.
 
 Shading was kept simple: a goureaud without texture, the math for the bezier curves was implemented in the shader using matrix multiplications.
 

@@ -17,7 +17,7 @@ The grass effect was done by using the geometry shader to create "fins" and "she
 
 The hairs were done by creating extra lines growing from each vertex.
 
-You can view the shader [here](https://bitbucket.org/karurosu/teapotdx10/src/902dab3cb62717396cfb2f4f18914f6dc9db7536/D3D10SimpleTeapot/D3D10TeapotTechDiffTexture.fx?at=default&fileviewer=file-view-default).
+You can view the shader [here](https://github.com/karurosu/3d-teapots/blob/main/d3d10-teapot/D3D10SimpleTeapot/D3D10TeapotTechDiffTexture.fx).
 
 This was also an assignment for my computer graphics class.
 
